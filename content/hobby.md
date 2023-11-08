@@ -21,17 +21,17 @@ Something fun about me.
 
     <div class="gallery">
         <figure class="figure right">
-            <img src="img/meOlga.jpg" width="300" class="me" alt="En Dam">
+            <img src="assets/img/meOlga.jpg" width="300" class="me" alt="En Dam">
             <figcaption>En dam me en röd berett</figcaption>
         </figure>
         <figure class="figure center">
-            <img src="img/Drikare.jpg" width="300" class="me" alt="Drikare">
+            <img src="assets/img/Drikare.jpg" width="300" class="me" alt="Drikare">
             <figcaption>Drikare</figcaption>
         </figure>
         <figure class="figure left">
-            <img src="img/Aaken.jpg" width="300" class="me" alt="Kupolmosaiken i katedralen i Aaken">
+            <img src="assets/img/Aaken.jpg" width="300" class="me" alt="Kupolmosaiken i katedralen i Aaken">
             <figcaption>Kupolmosaiken i katedralen i Aaken</figcaption>
         </figure>
     </div>
 
-The source for this page is in `content/about.md`.
+The source for this page is in `content/hobby.md`.

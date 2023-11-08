@@ -1,0 +1,27 @@
+@import 'variables';
+
+@import 'blockquotes';
+@import 'code';
+@import '../../node_modules/normalize.css/normalize';
+
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+
+@import 'html';
+@import 'typography';
+@import 'body';
+@import 'header';
+@import 'img';
+@import 'main';
+@import 'footer';
+@import 'media';
+
+
+* {
+    color: $font-color;
+}

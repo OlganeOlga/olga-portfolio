@@ -19,5 +19,5 @@ Men jag gillar också att försöka återskapa det jag ser. Jag gillar att måla
 
 This is a sample home page written in markdown with some frontmatter defined. The source for this page is in `content/index.md`.
 
-
-![me](%assets_url%/img/meOlga.jpg) .{me}
+En av mina favorita bilder:
+![me](%assets_url%/img/meOlga.jpg)
