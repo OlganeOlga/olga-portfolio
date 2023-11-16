@@ -2,8 +2,8 @@
 Logo: image/OlgaLogo.png
 Tagline: Student in Design dbwebb-cours
 Social:
-    - title: Link till sidans github repo.
-      url: https://github.com/OlganeOlga/me-portfolio
+    - title: Link till github.
+      url: https://github.com
       icon: fab fa-github
     - title: Link till kurssidan.
       url: https://dbwebb.se/design
