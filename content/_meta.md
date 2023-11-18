@@ -12,4 +12,22 @@ Social:
       url: https://www.markdownguide.org/cheat-sheet/
       icon: fas fa-kiwi-bird
       unicode: &#x1F95D
+    - title: Link till Markdown basics.
+      url: https://daringfireball.net/projects/markdown/
+      icon: fa-sharp fa-light fa-bird
+Technologies:
+    - title: CSS
+      url: thechnologies/css
+    - title: HTML
+      url: thechnologies/css
+    - title: JAVASCRIPT
+      url: thechnologies/css
+    - title: PHP
+      url: thechnologies/css
+    - title: PHYTHON
+      url: thechnologies/css
+    - title: GIT
+      url: thechnologies/css
+    - title: SQLITE
+      url: thechnologies/css
 ---

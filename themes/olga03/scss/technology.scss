@@ -1,0 +1,57 @@
+.landingpage {
+    display: grid;
+    width: 80%;
+    min-height: 100vh;
+    gap: 1em 1em;
+    margin: 0 auto;
+
+    .span1 {
+        grid-column: span 1;
+    }
+
+    .span2 {
+        grid-column: span 2;
+    }
+
+    .span3 {
+        grid-column: span 3;
+    }
+
+    .wide {
+        grid-column: span 2;
+    }
+
+    p {
+        display: none;
+    }
+}
+
+.box {
+    line-height: 2;
+    text-align: center;
+    border: solid #355885;
+    min-width: 20%;
+
+    h4 {
+        font-size: 1.5em;
+    }
+
+    a {
+        color: $font-color-gray;
+    }
+
+    a:visited {
+        color: $visited;
+    }
+}
+
+.main .landingpage h1 {
+    grid-column: span 3;
+    justify-self: center;
+    margin: 0 auto;
+}
+
+.aside {
+    width: 20%;
+}
+

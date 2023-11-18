@@ -9,8 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "stylelint \"**/*.scss\"",
-    "style": "sass olga02/scss/style.scss olga02/css/style.css --no-source-map",
-    "style-min": "sass olga02/scss/style.scss olga02/css/style.min.css --no-source-map --style compressed"
+    "style": "sass olga03/scss/style.scss olga03/css/style.css --no-source-map",
+    "style-min": "sass olga03/scss/style.scss olga03/css/style.min.css --no-source-map --style compressed"
   },
   "keywords": [],
   "author": "",
