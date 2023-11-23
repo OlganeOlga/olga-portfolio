@@ -2,6 +2,7 @@
 Title: Technologies
 Description: This is my technologies page.
 Template: technologies
+hidden: true
 ---
 Technologies
 ============

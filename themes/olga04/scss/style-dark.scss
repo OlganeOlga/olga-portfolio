@@ -1,0 +1,32 @@
+//import styles comon with standart theme
+@import 'variables';
+
+@import '../../node_modules/normalize.css/normalize';
+
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+
+
+@import 'html';
+@import 'dark-thema/main';
+@import 'media';
+@import 'report';
+
+//import dark-theme styles
+@import 'dark-thema/body';
+@import 'dark-thema/technology';
+@import 'dark-thema/typography';
+@import 'dark-thema/header';
+@import 'dark-thema/footer';
+@import 'dark-thema/blockquotes';
+@import 'dark-thema/code';
+
+@import 'analys';
+.main {
+    background-color: rgb(228, 152, 10);
+}

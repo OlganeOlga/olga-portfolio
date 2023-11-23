@@ -9,9 +9,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "stylelint \"**/*.scss\"",
-    "style": "sass olga03/scss/style.scss olga03/css/style.css --no-source-map",
-    "style-min": "sass olga03/scss/style.scss olga03/css/style.min.css --no-source-map --style compressed"
-  },
+    "watch": "sass olga04/scss/style.scss:olga04/css/style.css olga04/scss/style-dark.scss:olga04/css/style-dark.css --no-source-map --watch",
+    "watch-min": "sass olga04/scss/style.scss:olga04/css/style.min.css olga04/scss/style-dark.scss:olga04/css/style-dark.min.css --no-source-map --watch --style compressed",
+    "style": "npm run style-light && npm run style-dark",
+    "style-min": "npm run style-light-min && npm run style-dark-min",
+    "style-dark": "sass olga04/scss/style-dark.scss olga04/css/style-dark.css --no-source-map",
+    "style-dark-min": "sass olga04/scss/style-dark.scss olga04/css/style-dark.min.css --no-source-map --style compressed",
+    "style-light": "sass olga04/scss/style.scss olga04/css/style.css --no-source-map",
+    "style-light-min": "sass olga04/scss/style.scss olga04/css/style.min.css --no-source-map --style compressed"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",

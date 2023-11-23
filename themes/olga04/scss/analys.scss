@@ -1,0 +1,23 @@
+/**
+ * Render the `report` element consistently in IE.
+ */
+.analysis {
+    align-items: unset;
+}
+
+td .three_row {
+    display: grid;
+    grid-template-rows: 33.3% 33.3% 33.3%;
+}
+
+.td-row1 {
+    grid-row: 1;
+}
+
+.td-row2 {
+    grid-row: 2;
+}
+
+.td-row3 {
+    grid-row: 3;
+}

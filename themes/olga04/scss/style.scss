@@ -1,0 +1,31 @@
+@import 'variables';
+
+@import 'iniThema/blockquotes';
+@import 'iniThema/code';
+@import '../../node_modules/normalize.css/normalize';
+
+@import '../../shared/fontawesome/scss/fontawesome';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+$fa-font-path: '../../shared/fontawesome/webfonts';
+
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
+
+@import 'report';
+@import 'iniThema/technology';
+@import 'html';
+@import 'iniThema/typography';
+@import 'iniThema/body';
+@import 'iniThema/header';
+@import 'img';
+@import 'iniThema/main';
+@import 'iniThema/footer';
+@import 'analys';
+
+@import 'media';
+
+
+* {
+    color: $font-color;
+}

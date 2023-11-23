@@ -1,0 +1,30 @@
+/**
+ * Render the `report` element consistently in IE.
+ */
+
+
+.report {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    line-height: 2em;
+    
+    h1 {
+        font-size: 1.7em;
+    }
+
+    p{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 0;
+        font-size: 1.15em;
+    }
+
+    img {
+        max-width: 70%;
+    }
+
+    .aside {
+        width: 20%;
+    }
+}
