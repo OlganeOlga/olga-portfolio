@@ -6733,7 +6733,7 @@ body {
   align-items: unset;
 }
 
-td .three_row {
+td .three-row {
   display: grid;
   grid-template-rows: 33.3% 33.3% 33.3%;
 }

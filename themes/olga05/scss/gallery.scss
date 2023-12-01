@@ -1,0 +1,18 @@
+.gallery {
+    img {
+        width: 300px;
+    }
+
+    p {
+        display: flex;
+        flex-direction: column;
+    }
+
+    h2 {
+        grid-column-start: 1;
+        grid-column-end: span col3-end;
+        grid-row: auto;
+        justify-self: center;
+        align-self: center;
+    }
+}

@@ -19,14 +19,6 @@
     p {
         margin-top: 0;
     }
-
-    li a, p a {
-        color: $font-color-gray-dark;
-    }
-
-    li a:visited, p a:visited {
-        color: $visited-dark;
-    }
 }
 
 .article, .technologypage {
@@ -46,13 +38,6 @@
 
     img {
         max-width: 70%;
-    }
-
-    td, td a {
-        background-color: rgb(244, 247, 250);
-        color: $font-color-gray;
-        font-weight: 700;
-        text-align: center;
     }
 }
 

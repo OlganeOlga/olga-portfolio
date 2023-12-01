@@ -1,0 +1,10 @@
+body {
+    height: 100%;
+    display: block;
+    background-color: $background-color-body1-dark;     
+    color: $font-color-gray-dark;
+}
+
+.header, .footer {
+    flex: 0 0 auto;
+}

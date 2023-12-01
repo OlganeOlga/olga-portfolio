@@ -1,5 +1,6 @@
 //import styles comon with standart theme
 @import 'variables';
+@import 'media';
 
 @import '../../node_modules/normalize.css/normalize';
 
@@ -14,8 +15,12 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 
 @import 'html';
 @import 'dark-thema/main';
-@import 'media';
+
 @import 'report';
+@import 'gallery';
+@import 'analys';
+@import 'video';
+@import 'img';
 
 //import dark-theme styles
 @import 'dark-thema/body';
@@ -25,8 +30,6 @@ $fa-font-path: '../../shared/fontawesome/webfonts';
 @import 'dark-thema/footer';
 @import 'dark-thema/blockquotes';
 @import 'dark-thema/code';
-
-@import 'analys';
 
 .main {
     background-color: rgb(228, 152, 10);

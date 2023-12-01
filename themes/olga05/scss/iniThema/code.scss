@@ -1,20 +1,19 @@
 code {
     margin: 0 0.1em;
     padding: 0.1em 0.2em;
-    border: $border-code-dark;
+    border: $border-code;
     border-radius: 0.3em;
-    background: $background-code-dark;
+    background: $background-code;
     font-family: monospace;
     font-size: 0.85rem;
     line-height: 1.9824;
-    color: rgb(22, 21, 21);
 }
 
 pre {
     padding: 0 1em;
-    border: $border-code-dark;
+    border: $border-code;
     border-radius: 0.3em;
-    background: $background-code-dark;
+    background: $background-code;
 }
 
 pre code {

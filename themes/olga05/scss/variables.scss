@@ -1,0 +1,72 @@
+/*INITIAL THEMA*/
+
+/* COLORS*/
+// Fonts
+$font-color: #000;
+$font-color-gray: #191b1d;
+$font-alternative-color: #fff;
+$visited: #820512;
+
+//Background-initial
+$background-color: #3d5a80;
+$background-alternative-color: #e0fbfc;
+
+//Background Olga
+$background-color-body1: #d4e2f4;
+$background-header: #325c72;
+
+//Bloquotes
+$bloq-border-left: 0.5em solid #f5f5f5;
+//code
+$background-code: #f5f5f5;
+$border-code: 1px solid #ccc;
+
+//technology
+$bordet-tech: solid #355885;
+
+
+/* FONTS */
+//Families
+$alumni: 'Alumni Sans Inline One', sans-serif;
+$dosis: 'Dosis', sans-serif;
+$pacifico: 'Pacifico', cursive;
+$gramond: 'EB Garamond', serif;
+
+/*DARK THEMA*/
+
+/* COLORS-DARK*/
+// Fonts-dark
+$font-color-dark: #000;
+$font-color-gray-dark: #cfcccc;;
+$font-alternative-color-dark: #fff;
+$visited-dark: #820512;
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One:ital@0;1&family=Dosis:wght@300;400;500;600;700;800&family=EB+Garamond&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+//Background-initial-dark
+$background-color-dark: #3d5a80;
+$background-alternative-color-dark: #e0fbfc;
+
+//Background-Olga-dark
+$background-color-dark: #3d5a80;
+$background-alternative-color-dark: #e0fbfc;
+
+$background-color-body1-dark: #d4e2f4;
+$background-header-dark: #FF5821;
+
+//Bloquotes
+$bloq-border-left-dark: 0.5em solid #f5f5f5;
+//code
+$background-code-dark: #f5f5f5;
+$border-code-dark: 1px solid #ccc;
+
+//technology
+$bordet-tech-dark: solid #FF5821;;
+
+
+/*FONTS-DARK*/
+//Families-dark
+$alumni: 'Alumni Sans Inline One', sans-serif;
+$in-place-of-dosis: 'Dosis', sans-serif;
+$pacifico: 'Pacifico', cursive;
+$in-place-of-gramond: 'Playfair Display', serif;
+
