@@ -26,8 +26,10 @@
     grid-column: 1/2;
 }
 
-.site-header a:visited, .nav a:visited {
-    color: $visited;
+.site-header a:visited, .nav-ul a:visited {
+    background-color: darken($background-header, 10%);
+    // color: $visited;
+    // text-shadow: $shadow-visited;
 }
 
 .logo {
@@ -36,12 +38,16 @@
 
 .title {
     grid-column: 2/3;
+    
+    a h1, a p {
+        color: $font-alternative-color;
+    }
 }
 
-.nav-toggle {
+.nav-ul {
     grid-column: 3/3;
     display: none;
-    color: $font-color-gray;
+    color: $font-alternative-color;
 }
 
 .nav {
@@ -67,6 +73,10 @@
 
 .nav ul li {
     padding: 0 1em;
+
+    a {
+        color: $font-alternative-color;
+    }
 }
 
 .header {
@@ -90,10 +100,6 @@
     min-width: 80%;
     margin: 0 auto;
 }
-
-// .flash-img {
-//     justify-self: center;
-// }
 
 .title p {
     font-style: italic;

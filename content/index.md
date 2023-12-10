@@ -6,7 +6,6 @@ Description: This is our index page.
 Olgas home page
 ==========================
 
-
 Jag var född vid en största världs flöde och växte i en av de största världsstäde.
 
 Jag tycker om färg och jag tycker om färgfulla grejer.
@@ -19,5 +18,4 @@ Men jag gillar också att försöka återskapa det jag ser. Jag gillar att måla
 
 This is a sample home page written in markdown with some frontmatter defined. The source for this page is in `content/index.md`.
 
-En av mina favorita bilder:
-![me](%assets_url%/img/meOlga.jpg)
+En av mina favorita bilder ![me](image/meOlga.jpg?w=400&h=400)

@@ -7,36 +7,36 @@ hidden: true
 Technologies
 ============
 <div class="box span1">
-    <h4>CSS</h4>
+    <h2>CSS</h2>
     <a href="?thechnologies/css">Läs mera</a>
 </div>
 
 <div class="box span2">
-    <h4>HTML</h4>
+    <h2>HTML</h2>
     <a href="?thechnologies/html">Läs mera</a>
 </div>
 
 <div class="box span2">
-    <h4>JAVASCRIPT</h4>
+    <h2>JAVASCRIPT</h2>
     <a href="?thechnologies/javascript">Läs mera</a>
 </div>
 
 <div class="box span1">
-    <h4>PHP</h4>
+    <h2>PHP</h2>
     <a href="?thechnologies/php">Läs mera</a>
 </div>
 
 <div class="box span3">
-    <h4>PYTHON</h4>
+    <h2>PYTHON</h2>
     <a href="?thechnologies/python">Läs mera</a>
 </div>
 
 <div class="box span1">
-    <h4>GIT</h4>
+    <h2>GIT</h2>
     <a href="?thechnologies/git">Läs mera</a>
 </div>
 
 <div class="box wide">
-    <h4>SQLITE</h4>
+    <h2>SQLITE</h2>
     <a href="?thechnologies/sqlite">Läs mera</a>
 </div>

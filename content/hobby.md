@@ -21,15 +21,15 @@ Something fun about me.
 
     <div class="gallery">
         <figure class="figure right">
-            <img src="assets/img/meOlga.jpg" width="300" class="me" alt="En Dam">
+            <img src="assets/img/meOlga.jpg" class="me" style="width: 300px; height: auto;" alt="En Dam">
             <figcaption>En dam me en röd berett</figcaption>
         </figure>
         <figure class="figure center">
-            <img src="assets/img/Drikare.jpg" width="300" class="me" alt="Drikare">
+            <img src="assets/img/Drikare.jpg" class="me" style="width: 300px; height: auto;" alt="Drikare">
             <figcaption>Drikare</figcaption>
         </figure>
         <figure class="figure left">
-            <img src="assets/img/Aaken.jpg" width="300" class="me" alt="Kupolmosaiken i katedralen i Aaken">
+            <img src="assets/img/Aaken.jpg" class="me" style="width: 300px; height: auto;" alt="Kupolmosaiken i katedralen i Aaken">
             <figcaption>Kupolmosaiken i katedralen i Aaken</figcaption>
         </figure>
     </div>

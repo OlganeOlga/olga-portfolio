@@ -5,6 +5,97 @@
     align-items: unset;
 }
 
+.landingpage.analys {
+    grid-template-columns: 24% 24% 24% 24%;
+    grid-template-rows: 10% 10% 20% 20% 20%;
+
+    .box {
+        display: grid;
+        grid-template-rows: auto auto;
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .box img {
+        opacity: 0.5;
+        grid-row: 1;
+        grid-column: 1;
+    }
+
+    .box h2 {
+        grid-row: 1;
+        grid-column: 2;
+        margin: unset;
+    }
+
+    .box a {
+        grid-row: 2;
+        grid-column: 2;
+    }
+
+    .one{
+        grid-row: 6;
+        background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+    }
+    
+
+    .box.two {
+        grid-column: 2;
+        grid-row-start: 5;
+        grid-template-rows: auto auto auto;
+    }
+
+    .box.two .triangle {
+        width: 0;
+        height: 0;
+    }
+
+    .triangle.grow {
+        grid-row: 2;
+        grid-column: 1;
+        align-self: flex-start;
+        border-left: 90px solid transparent;
+        border-right: 5px solid transparent;
+        border-bottom: 10px solid rgb(128, 0, 28);
+    }
+
+    .triangle.slow {
+        grid-row: 2;
+        grid-column: 2;
+        align-self: flex-end;
+        border-left: 5px solid transparent;
+        border-right: 90px solid transparent;
+        border-bottom: 10px solid green;
+    }
+
+    img.half-right { 
+        grid-column: 2;
+        align-self: start;
+        clip-path: polygon(0% 0%, 50% 0%, 50% 100%, 0% 100%);
+    }
+    
+    img.half-left {
+        grid-row: 2;
+        grid-column: 1;
+        align-self: flex-end;
+        clip-path: polygon(50% 0%, 100% 0%, 100% 100%, 50% 100%);
+        
+    }
+    
+    img.half-top {
+        grid-row: 2;
+        grid-column: 2;
+        align-self: center;
+        clip-path: polygon(0% 0%, 100% 0%, 100% 50%, 0% 50%);
+    }
+    
+    img.half-bottom {
+        top: -7em;
+        left: 3em;
+        clip-path: polygon(0% 50%, 100% 50%, 100% 100%, 0% 100%);
+        transform: rotate(-37deg);
+    }
+}
+
 td .three-row {
     display: grid;
     grid-template-columns: 33.3% 33.3% 33.3%;
@@ -21,4 +112,20 @@ td .three-row {
 
 .td-row3 {
     grid-row: 3;
+}
+
+.three {
+    grid-column: 3;
+    grid-row: 4;
+    background: repeating-linear-gradient(45deg, #7c72c9, #f28888 1px, transparent 1px, transparent 10px)
+}
+.fore {
+    grid-row-start: 3;
+    grid-column: 4;
+}
+
+
+
+img.rotated {
+    transform: rotate(37deg);
 }

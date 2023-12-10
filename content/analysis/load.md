@@ -35,13 +35,13 @@ Beskrivning osh analys
 ----------------------
 Alla väljde sidor visade bäst prestanda på dator. 
 Bästa prestanda har nederländsk hokey blogg  med 87% 
-![Nederländsk hokey blogg](%assets_url%/img/kmom04/netherlands_hokey.png)
+![Nederländsk hokey blogg](image/kmom04/netherlands_hokey.jpg)
 
 Anra platsen far svenska webplatsen om sport med 80,3% 
-![Svensk sportblogg](%assets_url%/img/kmom05/prestanda/hokeySw.png)
+![Svensk sportblogg](image/kmom05/prestanda/hokeySw.jpg)
 
 Brod och kvarn blogg har 77,3%
-![Brod&Kvarn](%assets_url%/img/kmom04/bredAndMeal.png)
+![Brod&Kvarn](image/kmom04/bredAndMeal.jpg)
 
 På mobila enheter alla prestandor är sämre. Första men det var samma mönster. Nederlandsk hokey blogg har 66,7%, swensk sportblogg visar 57,7% och Brod and Kvarn blogg bara 17,3%.
 

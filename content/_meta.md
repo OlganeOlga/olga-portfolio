@@ -1,5 +1,5 @@
 ---
-Logo: image/OlgaLogo.png
+Logo: image/OlgaLogo.jpg
 Tagline: Student in Design dbwebb-cours
 Social:
     - title: Link till github.

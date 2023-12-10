@@ -47,8 +47,13 @@
             }
 
             .nav {
-                grid-column: 2/2;
-                padding: 0;
+                display: grid;
+                justify-items: center;
+                font-size: 1rem;
+                
+                .nav {
+                    margin-top: -1em;
+                }
 
                 li {
                     padding: 0;
@@ -61,8 +66,7 @@
         }
 
         .nav-ul {
-            padding: 0;
-            margin: 0;
+            grid-template-columns: unset;
         }
 
         .nav-ul li {
@@ -81,7 +85,6 @@
     }
     
     .main .article, .main .technologypage {
-        // width: 95%;
         line-height: 1.7em;
         flex-grow: 2;
         padding: 0 0.5em;
@@ -124,6 +127,14 @@
     .fa, .fas {
         font-size: 3em;
     }
+
+    .landingpage.analys .box.two {
+        grid-column: unset;
+        width: 12.1em;
+        position: relative;
+        left: -4.15em;
+    }
+   
 }
 
 

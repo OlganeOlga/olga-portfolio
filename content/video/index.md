@@ -10,5 +10,5 @@ Kmom05: Embedded och responsiv video
 ============
 
 <div class="embed-container">
-    <iframe src="https://www.youtube.com/embed/qcDTUeBCC6g" frameborder="0" allowfullscreen></iframe>
+    <iframe title="video" src="https://www.youtube.com/embed/qcDTUeBCC6g" frameborder="0" allowfullscreen></iframe>
 </div>

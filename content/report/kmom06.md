@@ -5,5 +5,6 @@ Drescription: My report for the first couts moment.
 
 * [Tillbacka till Report](index)
 
-Kmom 01
-============
+Kmom 06
+===========
+<a href="%base_url%??analysis/design">Design-principles</a>

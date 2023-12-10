@@ -27,7 +27,7 @@ Resultat och analys
 -----------------------
 * Brod&Kvarn 
 -----------
-![Brod&Kvarn](%assets_url%/img/kmom04/bredAndMeal.png)
+![Brod&Kvarn](%assets_url%/img/kmom04/bredAndMeal.jpg)
 -------------
 verkar använda komplementär färgscheman med två dominerande pastel-grå och pastel-brunt färger. Det finns en grönt fläck men dn ät bara på ett plats.
 
@@ -49,14 +49,14 @@ Font är tydligt och stör inte vid läsningen.
 
 * Nederlandsk hokey-blogg 
 ---------------------------
-![Nederlandsk grässhokey-blogg](%assets_url%/img/kmom04/netherlands_hokey.png)
+![Nederlandsk grässhokey-blogg](%assets_url%/img/kmom04/netherlands_hokey.jpg)
 --------------------------
 
 använder tydligt monokrom schema
 <table style="border-spacing: 4px; border-collapse: separate">
 <th>headers</th><th>text</th><th>mörk text</th><th>extra färg</th>
 <tr>
-<td style="height: 50px; width: 50px; background-color: #0b862d; text-align: center;">0b862d</td>
+<td style="height: 50px; width: 50px; background-color: #0b862d; text-align: center; color: #fff">0b862d</td>
 <td style="height: 50px; width: 50px; background-color: #708FA0; text-align: center;">#708FA0</td>
 <td style="height: 50px; width: 50px; background-color: #70F56E; text-align: center;">#F5B25B</td>
 <td style="height: 50px; width: 50px; background-color: #70F56E; text-align: center;">#F5B25B</td>
@@ -72,7 +72,7 @@ Intensivt grönt färg förmedlar energi och passar med gröna gräsets färgen.
 
 * Aftonbladet
 ---------------------------
-![Aftonbladet](%assets_url%/img/kmom04/aftonbladet.png)
+![Headers Aftonbladet.se](%assets_url%/img/kmom04/aftonbladet.jpg)
 ----------------------------
 
 Jag tror att det är sammansätt färgscheman söm är avsett att väcka starka känslor.
@@ -82,7 +82,7 @@ PS: jag tog med avsett bara headers, som är synliga när sidan öppnas.
 <tr>
 <td style="height: 50px; width: 50px; background-color: #F0CE21;text-align: center;">#F0CE21</td>
 <td style="height: 50px; width: 50px; background-color: #460269; text-align: center; color: #F0F0F0;">#460269</td>
-<td style="height: 50px; width: 50px; background-color: #dd2a30; text-align: center;">#dd2a30</td>
+<td style="height: 50px; width: 50px; background-color: #DC280C; text-align: center; color: #F0F0F0">#dd2a30</td>
 <td class="three-row" style="height: 50px; width: 50px; background-color: #708FA0"><div class="td-row1" style="background-color: #F0F0F0; text-align: center;">#F0F0F0</div><div class="td-row2" style="background-color: #f15c25; text-align: center;">#f15c25</div><div class="td-row3" style="background-color: #000; color: #F0F0F0; text-align: center;">#000</div></td>
 </tr>
 </table>
